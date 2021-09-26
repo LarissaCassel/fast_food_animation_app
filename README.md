@@ -17,7 +17,7 @@ This project was developed using the following technologies:
 Clone the project 
 
 ```bash
-$ git clone https://github.com/LarissaCassel/fast_food_animation_app.git
+$ git clone https://github.com/LarissaCassel/react-native-fastfood-animation.git
 ```
 
 ## 💻 Inspiration
